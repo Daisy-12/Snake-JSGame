@@ -1,3 +1,4 @@
+#Snake-JSGame
 原生JS实现贪吃蛇项目
 <hr/>
 项目开发流程:<br/>
